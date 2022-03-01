@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi! Welcome to my github page. 👋
 
-<!--
-**nagiustunn/nagiustunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nagihan Üstün. Jr. Software Developer.
 
-Here are some ideas to get you started:
+I'm a Computer Engiinering Student at Namık Kemal University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## I'm currently working on 🔭
+Matrix Teknoloji A.Ş - Long Term Software Developer Intern
+
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin.
+
+[![Linkedin Badge](https://img.shields.io/badge/nagiustunn-follow%20on%20linkedin-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nagiustunn/)
+
+
+Happy Coding :)
