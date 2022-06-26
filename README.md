@@ -7,7 +7,7 @@ I'm a Computer Engineering Student at Namık Kemal University.
 
 
 ## I'm currently working on 🔭
-Matrix Teknoloji A.Ş - Software Developer Intern
+Matrix Teknoloji A.Ş - React Web Developer Intern
 
 
 ## Contact Me 📫
